@@ -1,0 +1,14 @@
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.6
+seaborn>=0.12
+scipy>=1.9
+scikit-learn>=1.2
+lightgbm>=3.3
+nltk>=3.8
+spacy>=3.5
+transformers>=4.30
+torch>=2.0  # backend for transformers (BERT embeddings in sprint 14)
+tqdm>=4.64
+tensorflow>=2.12
+jupyter>=1.0
